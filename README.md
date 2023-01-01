@@ -10,7 +10,10 @@
     <img src="https://img.shields.io/github/workflow/status/unstable-errors/q-q/Rust?style=for-the-badge"/>
     <img src="https://img.shields.io/github/commit-activity/m/unstable-errors/q-q?style=for-the-badge"/>
   </p>
-  
+ 
+# ARCHIVED
+This repo has been temporarily archived as I will be working on other projects.
+ 
 # Quickstart
 Run `cargo install q-q` for a quick start (Needs rust to be installed)
 
